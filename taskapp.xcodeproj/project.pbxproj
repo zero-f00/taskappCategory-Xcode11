@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		580AE55E241E350E002D54CF /* taskapp in Resources */ = {isa = PBXBuildFile; fileRef = 580AE55D241E350E002D54CF /* taskapp */; };
+		580AE560241E355D002D54CF /* taskapp in Resources */ = {isa = PBXBuildFile; fileRef = 580AE55F241E355D002D54CF /* taskapp */; };
 		581D520024152A8100648BE0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581D51FF24152A8100648BE0 /* AppDelegate.swift */; };
 		581D520224152A8100648BE0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581D520124152A8100648BE0 /* SceneDelegate.swift */; };
 		581D520424152A8100648BE0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 581D520324152A8100648BE0 /* ViewController.swift */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		24B3FB587E46FA156D903641 /* Pods-taskapp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-taskapp.debug.xcconfig"; path = "Target Support Files/Pods-taskapp/Pods-taskapp.debug.xcconfig"; sourceTree = "<group>"; };
 		580AE55D241E350E002D54CF /* taskapp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = taskapp; sourceTree = "<group>"; };
+		580AE55F241E355D002D54CF /* taskapp */ = {isa = PBXFileReference; lastKnownFileType = folder; name = taskapp; sourceTree = "<group>"; };
 		581D51FC24152A8100648BE0 /* taskapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = taskapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		581D51FF24152A8100648BE0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		581D520124152A8100648BE0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				581D51FE24152A8100648BE0 /* taskapp */,
 				580AE55D241E350E002D54CF /* taskapp */,
+				580AE55F241E355D002D54CF /* taskapp */,
 				581D51FD24152A8100648BE0 /* Products */,
 				E1C32997FC38523899477098 /* Pods */,
 				489DAD5B992B88A48DE10654 /* Frameworks */,
@@ -162,6 +165,7 @@
 			files = (
 				581D520C24152A8300648BE0 /* LaunchScreen.storyboard in Resources */,
 				581D520924152A8300648BE0 /* Assets.xcassets in Resources */,
+				580AE560241E355D002D54CF /* taskapp in Resources */,
 				581D520724152A8100648BE0 /* Main.storyboard in Resources */,
 				580AE55E241E350E002D54CF /* taskapp in Resources */,
 			);
